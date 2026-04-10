@@ -1,0 +1,10 @@
+[package]
+name = "sherry"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+path = "src/sherry.rs"
+name = "sherry"
+
+[dependencies]
