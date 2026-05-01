@@ -8,3 +8,4 @@ path = "src/sherry.rs"
 name = "sherry"
 
 [dependencies]
+colored = "3"
